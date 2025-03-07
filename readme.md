@@ -1,6 +1,6 @@
 <p id="reading-time-action-id" align="left">2 min read</p>
 
-# GitHub Books
+# LLMs
 
 Welcome to **GitHub Books**!
 
