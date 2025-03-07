@@ -6,6 +6,6 @@
 
 | Term   | Description   |
 | ------ | ------------- |
-| _term_ | _description_ |
+| _LLM_ | _Large Language Model_ |
 
 [**Continue to Resources →**](resources.md)
